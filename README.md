@@ -6,8 +6,15 @@ You'll need to install Java and JDK to get Robocode up and going. If you are on 
 ```
 brew cask install java 
 ```
+For Windows follow these [instructions](http://robowiki.net/wiki/Robocode/System_Requirements)
 
+Then go to the [Robocode](http://robocode.sourceforge.net/), download the appropriate JAR and open it in your terminal using
 
+```
+java -jar robocode-setup-x.y.z.jar
+```
+
+where x.y.z is your specific Robocode version 
 
 # Robot Editor
 1. With the Robocode program open, click on the 'Robot' menu and the 'Editor' item.
