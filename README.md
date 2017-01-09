@@ -3,14 +3,15 @@ This project is an initial project that will get you set up with Robocode, the s
 
 ## Installation 
 You'll need to install Java and JDK to get Robocode up and going. If you are on Mac OSX the easiest way to install [Homebrew] (http://brew.sh/) Then run 
-'''
+```
 brew cask install java 
-'''
+```
+
 
 
 # Robot Editor
 1. With the Robocode program open, click on the 'Robot' menu and the 'Editor' item.
-2. It should give you a little dialog saying it's found a JDK to work with. Click 'OK' to tell it to use the one it found. (If it didn't find anything, you need to install the JDK. You can get it from java.sun.com.)
+2. It should give you a little dialog saying it's found a JDK to work with. Click 'OK' to tell it to use the one it found. (If it didn't find anything, you need to install the JDK. You can get it from (java.sun.com).)
 3. With the Robot Editor open, click on the 'File' menu, the 'New' submenu, and the 'Robot' item.
 4. Type in a name for your bot. It does not have to be the name for the bot you will use for the showdown, just [YourName]Bot will work fine. (i.e. JimBot, JulioBot, RufusBot, BuffyBot, etc.)
 5. Next you will be prompted for a package name. Enter your initials. You can make as many bots as you like, but they should all belong to the same package (i.e. use your initials here (and the same set of initials) every single time).
