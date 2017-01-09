@@ -23,7 +23,7 @@ where x.y.z is your specific Robocode version
 4. Type in a name for your bot. It does not have to be the name for the bot you will use for the showdown, just [YourName]Bot will work fine. (i.e. JimBot, JulioBot, RufusBot, BuffyBot, etc.)
 5. Next you will be prompted for a package name. Enter your initials. You can make as many bots as you like, but they should all belong to the same package (i.e. use your initials here (and the same set of initials) every single time).
 6. It may give you a message that the directory does not exist. Click 'OK' to tell it to create the directory for you. You should now be staring at some boilerplate code. Give it a look see and check out what's going on. If you want an explanation of some of the methods, consult the [Robocode API](http://mark.random-article.com/robocode/javadoc/index.html).
-7. Compile the code by clicking on the 'Compiler' menu and the 'Compile' option. It may offer to save the file for you, tell it 'OK'. Unless you've made any changes, it should compile successfully. (If it doesn't compile, you get to figure out what you broke and fix it.)
+7. Compile the code by clicking on the 'Compiler' menu and the 'Compile' option. It may offer to save the file for you, tell it 'OK'. Unless you've made any changes, it should compile successfully. (If it doesn't compile, review the above steps to see if you missed a step.)
 
 ## Let Him Fight!
 
@@ -31,3 +31,7 @@ where x.y.z is your specific Robocode version
 2. Click the 'Battle' menu and the 'New' item.
 3. If the bot you just made doesn't show up in the list of bots in the dialog, hit 'F5' and it will refresh the list. (If your bot does show up, hitting 'F5' with neither hurt nor help the situation.)
 4. When your bot shows up, double-click on it to add it to the battle, along with several other of the 'sample' bots (your choice).
+
+## Submission
+
+The submission for this assignment is to simply let me see it running. Feel free to explore the code and see what all is going on. I would highly recommend spending a day just playing around with the code and review the [API] (http://mark.random-article.com/robocode/javadoc/index.html) to make sure you have a rough idea of what the code is doing. 
