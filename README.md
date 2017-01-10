@@ -16,6 +16,12 @@ java -jar robocode-setup-x.y.z.jar
 
 where x.y.z is your specific Robocode version 
 
+It should install in your home directory. To run Robocode navigate to the robocode directory and run
+
+```
+./robocode.sh
+```
+
 # Robot Editor
 1. With the Robocode program open, click on the 'Robot' menu and the 'Editor' item.
 2. It should give you a little dialog saying it's found a JDK to work with. Click 'OK' to tell it to use the one it found. (If it didn't find anything, you need to install the JDK. You can get it from (java.sun.com).)
