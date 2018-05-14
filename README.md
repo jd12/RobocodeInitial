@@ -2,7 +2,9 @@
 This project is an initial project that will get you set up with Robocode, the system that we will use for the majority of our Java projects
 
 ## Installation 
-You'll need to install Java and JDK to get Robocode up and going. If you are on Mac OSX the easiest way to install [Homebrew](http://brew.sh/) Then run 
+You'll need to install Java and JDK to get Robocode up and going. If you are on Mac OSX the easiest way to get setup is to install [Homebrew](http://brew.sh/) 
+
+Then run 
 ```
 brew cask install java 
 ```
@@ -22,9 +24,10 @@ If you clone this repository you should be able to cd into the directory and run
 java -jar robocode-1.9.3.2-setup.jar
 ```
 
-It should install in your home directory. To run Robocode navigate to the robocode directory and run
+It should install in your home directory. To run Robocode navigate to the robocode directory and run the shell script
 
 ```
+cd ~/robocode
 ./robocode.sh
 ```
 
