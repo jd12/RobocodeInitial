@@ -2,7 +2,7 @@
 This project is an initial project that will get you set up with Robocode, the system that we will use for the majority of our Java projects
 
 ## Installation 
-You'll need to install Java and JDK to get Robocode up and going. If you are on Mac OSX the easiest way to install [Homebrew] (http://brew.sh/) Then run 
+You'll need to install Java and JDK to get Robocode up and going. If you are on Mac OSX the easiest way to install [Homebrew](http://brew.sh/) Then run 
 ```
 brew cask install java 
 ```
@@ -11,10 +11,16 @@ For Windows follow these [instructions](http://robowiki.net/wiki/Robocode/System
 Then go to the [Robocode](http://robocode.sourceforge.net/), download the appropriate JAR and open it in your terminal using
 
 ```
-java -jar robocode-setup-x.y.z.jar
+java -jar robocode-w.x.y.z-setup.jar
 ```
 
-where x.y.z is your specific Robocode version 
+where w.x.y.z is your specific Robocode version 
+
+If you clone this repository you should be able to cd into the directory and run
+
+```
+java -jar robocode-1.9.3.2-setup.jar
+```
 
 It should install in your home directory. To run Robocode navigate to the robocode directory and run
 
@@ -40,4 +46,4 @@ It should install in your home directory. To run Robocode navigate to the roboco
 
 ## Submission
 
-The submission for this assignment is to simply let me see it running. Feel free to explore the code and see what all is going on. I would highly recommend spending a day just playing around with the code and review the [API] (http://mark.random-article.com/robocode/javadoc/index.html) to make sure you have a rough idea of what the code is doing. 
+The submission for this assignment is to simply let me see it running. Feel free to explore the code and see what all is going on. I would highly recommend spending a day just playing around with the code and review the [API](http://mark.random-article.com/robocode/javadoc/index.html) to make sure you have a rough idea of what the code is doing. 
